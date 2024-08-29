@@ -1,0 +1,60 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  Fonte1 {
+    font-family: "New Amsterdam", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  Fonte2 {
+    font-family: "Saira Condensed", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  html {
+    height: 100%;
+  }
+  body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  .titulo {
+     margin-bottom: 10rem;
+     font-size: 5rem;
+    }
+  
+  .foto {
+    display: flex;
+   align-items: center;
+    flex-direction: column;
+    margin-bottom: 5rem;
+  }
+  
+  .links {
+    display: flex;
+    flex-direction: row;
+    font-family: "Saira Condensed", sans-serif;
+    font-size: 3rem;
+    justify-content: center;
+  }
+  
+  a {
+    color: #000000;
+  }
+    
+  a:hover {
+    color: #292929;
+  }
+  
+  .divisao {
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+  }
