@@ -61,6 +61,12 @@ html {
   }
 
   .titulo2 {
+    margin-left: 3rem;  
+    margin-bottom: 10rem;
+    font-size: 2.5rem;
+   }
+
+   .titulo3 {
     margin-left: 3rem;
     margin-bottom: 10rem;
     font-size: 2.5rem;
