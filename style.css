@@ -31,7 +31,7 @@ html {
      font-size: 5rem;
     }
   
-  .foto {
+  .foto_index {
     display: flex;
    align-items: center;
     flex-direction: column;
@@ -62,18 +62,28 @@ html {
 
   .titulo2 {
     margin-left: 3rem;  
-    margin-bottom: 10rem;
+    margin-bottom: 1rem;
     font-size: 2.5rem;
    }
 
    .titulo3 {
     margin-left: 3rem;
-    margin-bottom: 10rem;
+    margin-bottom: 1rem;
     font-size: 2.5rem;
    }
 
    .titulo4 {
     margin-left: 3rem;
-    margin-bottom: 10rem;
+    margin-bottom: 1rem;
     font-size: 2.5rem;
    }
+  
+  #foto_esquerda {
+    float: left;
+    margin-left:20px;
+  }
+  
+  #foto_direita {
+    float:left;
+    margin-left:200px;
+  }
